@@ -1,6 +1,8 @@
 team: Leopards
 
-coach: Melissa
+manager: Nora
+
+coach: Lupi
 
 members:
   - Linda
@@ -8,3 +10,4 @@ members:
   - David
   - Olivia
   - Evie
+  - Dongho
